@@ -1,5 +1,5 @@
 # Brainfuck Web Server
-A Web Server written in Brainfuck
+Web server for running Brainfuck on the backend
 
 ## Run
 ```bash
